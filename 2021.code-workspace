@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "..\\..\\2021"
+    },
+    {
+      "path": ".."
+    },
+    {
+      "path": "..\\..\\WEtness"
+    },
+    {
+      "path": "../../특화"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "2022"
+  }
+}
